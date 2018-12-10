@@ -8,8 +8,8 @@ Branch Master
 */
 int main()
 {
-	int i = 1;
-	for (; i < 11; i++)
+	int i = 1; //Inizializzazione contatore
+	for (; i < 11; i++) //Ciclo che ripete da 1 a 10
 		cout << i << endl;
 	system("PAUSE");
 	return 0;
